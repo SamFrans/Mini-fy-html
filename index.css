@@ -1,0 +1,33 @@
+body {
+  background-color: #9CBCB1;
+}
+
+h {
+  color: black;
+  font-size: 24x
+}
+.topmenu_div {
+  /* boundary assignments */
+  margin-right: auto;
+  margin-left: auto;
+  padding: 5px 5px 5px 5px;
+  background: #0F8D96;
+  width: 370px;
+  /* style assignments */
+  font-size: 32px;
+  font-weight: 900;
+  text-shadow: snow 1px 3px 6px;
+  shadow: grey 10px 10px;
+  box-shadow: grey 4px 5px 2px
+}
+
+#topmenu_table{
+  border: black 2px solid;
+  
+}
+.prim_info,h1 {
+  font-size: auto;
+  width: 490px;
+  paddding: 0px;
+  margin: 10px 44px 10px 44px;
+}
