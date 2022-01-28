@@ -1,0 +1,24 @@
+body { background-color: gainsboro; }
+/*navigationsmeny*/
+.nav-box {
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: lightgray;
+  width: 90%;
+  height: 84px;
+  box-shadow: grey 0px 5px 11px }
+
+#nav-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  font-family: Nunito;
+  font-size: 40px;
+  text-shadow: cadetblue 0px 2px 2px;
+  }
+
+
+
+
